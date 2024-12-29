@@ -1,0 +1,17 @@
+.filler {
+  height: 50vh;
+  background: #ffffff00;
+}
+
+.custom-letter-spacing {
+  letter-spacing: 20px;
+}
+
+.gradient-bg {
+  height: 50vh;
+  background: linear-gradient(to bottom, #ffffff00, #000000);
+}
+
+.title1 {
+  width: 25%;
+}
